@@ -1,36 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a201c5f.css",
-    "main.js": "/static/js/main.476d9da3.js",
+    "main.css": "/static/css/main.b9d8f978.css",
+    "main.js": "/static/js/main.07d2f8e5.js",
     "static/media/About_rocket.png": "/static/media/About_rocket.f2ee40ab1b4fc9a6377f.png",
     "static/media/Index_bluebluer.png": "/static/media/Index_bluebluer.6096b363046df801d55d.png",
     "static/media/projectM6.png": "/static/media/projectM6.41a00c2d6082abae310c.png",
     "static/media/projectM4.png": "/static/media/projectM4.8013305873134365fdbd.png",
     "static/media/projectM2.png": "/static/media/projectM2.9924d1792355da7aadba.png",
     "static/media/projectM1.png": "/static/media/projectM1.9e9a3696318244bceda8.png",
-    "static/media/Skill_nodejs.png": "/static/media/Skill_nodejs.d44faccf07cea77f244b.png",
     "static/media/Index_emoji.png": "/static/media/Index_emoji.b538a1ead5cf18162034.png",
-    "static/media/Skill_android.png": "/static/media/Skill_android.c752879aa01fd2f0f6b8.png",
     "static/media/Profile.png": "/static/media/Profile.ba0214da06fb4d3fbab5.png",
-    "static/media/Skill_kotlin.png": "/static/media/Skill_kotlin.dc42f4236c3e4b2e6da6.png",
-    "static/media/Skill_react.png": "/static/media/Skill_react.0db82552fa729b81bf1b.png",
     "static/media/Icon_tstory.png": "/static/media/Icon_tstory.761cff6b007c3b8ab12a.png",
     "static/media/projectM3.png": "/static/media/projectM3.088a991697cb67a1d395.png",
     "static/media/projectM5.png": "/static/media/projectM5.89b0326c8b1144bf56d1.png",
-    "static/media/Skill_javascript.png": "/static/media/Skill_javascript.334d37e71589de5e6b65.png",
-    "static/media/Skill_oracle.png": "/static/media/Skill_oracle.729cbf723f56af577c44.png",
     "static/media/projectT2.png": "/static/media/projectT2.2695678757bb9f34395d.png",
     "static/media/projectT1.png": "/static/media/projectT1.dcabedce95f72e3a363f.png",
-    "static/media/Skill_python.png": "/static/media/Skill_python.88bd057e194d34ccc7df.png",
-    "static/media/Skill_webrtc.png": "/static/media/Skill_webrtc.a6c5a3e4a5c333853cf6.png",
-    "static/media/Skill_java.png": "/static/media/Skill_java.f5dd86c3ef6ef3f85acf.png",
     "static/media/Icon_github.png": "/static/media/Icon_github.f11021803f68852df283.png",
     "index.html": "/index.html",
-    "main.0a201c5f.css.map": "/static/css/main.0a201c5f.css.map",
-    "main.476d9da3.js.map": "/static/js/main.476d9da3.js.map"
+    "main.b9d8f978.css.map": "/static/css/main.b9d8f978.css.map",
+    "main.07d2f8e5.js.map": "/static/js/main.07d2f8e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a201c5f.css",
-    "static/js/main.476d9da3.js"
+    "static/css/main.b9d8f978.css",
+    "static/js/main.07d2f8e5.js"
   ]
 }
